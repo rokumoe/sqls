@@ -7,7 +7,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/vizee/sqls"
+	"github.com/rokumoe/sqls"
 )
 
 var rtcache struct {
